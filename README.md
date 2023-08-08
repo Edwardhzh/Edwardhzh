@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Edwardhzh
-- 🌱 I'm corrently a research assistant in School of Intergrated Circuit, Southeast University.
+- 🌱 I'm currently a research assistant in School of Intergrated Circuit, Southeast University.
 - 📫 My email address is edwardhprc@qq.com
 
 <!---
